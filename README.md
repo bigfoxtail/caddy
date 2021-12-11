@@ -1,3 +1,3 @@
 # caddy
 
-add replace-response and format-encoder modules build
+add `replace-response` and `format-encoder` module build
